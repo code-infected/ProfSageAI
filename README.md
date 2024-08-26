@@ -180,4 +180,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Qdrant**: For vector database management.
 - **Groq**: For AI-based responses.
 - **NLTK**: For sentiment analysis.
-- **BeautifulSoup**: For HTML parsing
+- **BeautifulSoup**: For HTML parsing.
