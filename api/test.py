@@ -27,7 +27,3 @@ def scrape_rmp_data(url):
     print('Reviews:')
     for idx, review in enumerate(reviews, 1):
         print(f'{idx}. {review}')
-
-# Example usage
-url = 'https://www.ratemyprofessors.com/professor/1886810'  # Replace with the actual URL
-scrape_rmp_data(url)
